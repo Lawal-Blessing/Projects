@@ -1,7 +1,8 @@
+![](https://github.com/Lawal-Blessing/Projects/blob/main/fabio-oyXis2kALVg-unsplash.jpg)
+
+
 # FINAL PROJECT 
 # -(EMPLOYEE SURVEY)
-
-![](https://github.com/Lawal-Blessing/Projects/blob/main/fabio-oyXis2kALVg-unsplash.jpg)
 
 ## INTRODUCTION
 
@@ -71,6 +72,44 @@ Interact with the live visualization [HERE](https://github.com/Lawal-Blessing/Pr
 
 ## CONCLUSION/RECOMMENDATION
 The analysis reveals that Mexican cuisine is the most preferred among consumers. Additionally, San Luis Potosí hosts the highest number of consumers in the dataset, yet the state has relatively fewer restaurants compared to the level of demand. This gap presents a strategic investment opportunity for entrepreneurs and investors to establish or expand Mexican restaurants in san Luis Potosí, where consumer interest is high but supply is limited.
+
+
+
+
+
+
+# (NYC COLLISION)
+# INTRODUCTION
+
+The NYC collision dataset which contains information on Motor vehicle collisions reported by the New York City Police Department, each record represents an individual collision, including the date, time and location of the accident (borough, zip code, street name, latitude/longitude), vehicles and victims involved, and contributing factors. Insight should be drawn on the most contributing factors to the accidents, accident frequency and high-risk streets for collisions.
+
+## TOOLS
+Excel
+
+## DATA SOURCE
+
+This dataset was given by Digitaley drive as a final project to test my ability as a data analysis after undergoing serval training.
+
+## KEY INSIGHT
+The analysis reveals that collision occurrences varied across months, years, times of the day, and days of the week. Among the months, March recorded the highest collision rate, while across years, 2021 experienced the highest frequency of collisions with 46% followed closely by 2022 with 44% and 2023 with 10% of the total collision, this shows a drastic improvement in the collision rate per year. In terms of the hour of the day, collision was more concentrated in the afternoon (PM hours). And by day of the week, Friday had the highest occurrence of collisions. These findings highlight potential seasonal, temporal and behavioral patterns that may influence collision trends.
+
+The analysis reveals that the leading contributing factors to collisions is categorized as “Unspecified” indicating that in many cases the root cause of accidents is not clearly documented. Following this, “Driver Inattention/Distraction” emerges as the second highest contributing factor, highlighting the significant role human error plays in road safety.
+The analysis shows that Belt-Parkway records the highest number of collision incidents compared to other streets. This indicated that Belt-Parkway is a major hotspot for road traffic accidents and requires targeted attention.
+
+## VISUALIZATION
+![](https://github.com/Lawal-Blessing/Projects/blob/main/Screenshot%20(35).png)
+
+## CONCLUSION/RECOMMENDATION
+
+The analysis shows that collisions are largely linked to unspecified factors and driver distraction, with march and the year 2021 recording the highest cases. Incident occur most frequently in the afternoon and on Fridays, with Belt-Parkway emerging as the street with the highest collision rate, below are some recommendation on the key insights drawn from this dataset:
+
+-	Month Specific Action: Since march shows the highest collision rate, road safety awareness campaigns should be intensified during this month
+-	Yearly Trend Review: Since 2021 and 2022 together accounted for 90% of recorded collisions, authorities should review road safety policies and traffic conditions during these years to identify causes and prevent recurrence.
+-	Time-Based Interventions: Strengthen traffic enforcement and public safety messaging in PM hours, when collisions are most common.
+-	Day-Focused Strategy: Additional patrols and safety measures on Fridays, especially during the peak traffic hours, to reduce risks
+-	Improved data collection and reporting: authorities should strengthen the reporting process by ensuring that law enforcement officer collect more detailed and standardized information at crash scene which will give a clearer picture of actual causes, enabling targeted interventions.
+-	Address driver inattention/distraction: launch road safety campaign focusing on the dangers of distracted driving, enforce a stricter penalty for distracted driving to discourage risky behavior, integrate driver education programs that emphasize focus, safe driving habits, and the risks of multitasking on the road.
+-	Road safety assessment: conduct a detailed safety audit of Belt-Parkway to identify specific risk factors, improve road markings, signage and street lighting, increase police patrol presence and deploy speed cameras or red light cameras along high risk streets.
 
 
 Connect with me on socials
